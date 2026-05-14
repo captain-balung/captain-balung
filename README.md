@@ -1,4 +1,4 @@
-# 👋 嗨，我是 [Captain Balung]！
+# 👋 嗨，我是 Captain Balung！
 
 歡迎來到我的 GitHub 空間。
 
